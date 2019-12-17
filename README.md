@@ -1,6 +1,6 @@
 # Vision
 
-An app that uses <code><tflite</code> for object recognition, google speecht to text engine and text to speech 
+An app that uses <code>tflite</code> for object recognition, google speech to text engine and text to speech 
 
 <h3>How to add it to your android studio projects</h3>
 <ol>
