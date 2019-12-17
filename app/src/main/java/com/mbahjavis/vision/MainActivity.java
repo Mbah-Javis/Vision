@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         btnStart.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this, CameraActivity.class);
+                Intent intent = new Intent(MainActivity.this, SelectorActivity.class);
                 overridePendingTransition(R.anim.anim_toggle, R.anim.anim_toggle);
                 startActivity(intent);
             }

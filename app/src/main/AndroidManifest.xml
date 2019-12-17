@@ -3,6 +3,8 @@
     package="com.mbahjavis.vision">
 
     <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <uses-feature android:name="android.hardware.camera" />
     <uses-feature android:name="android.hardware.camera.autofocus" />
@@ -14,7 +16,10 @@
         android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".CameraActivity"></activity>
+        <activity android:name=".TextToSpeech.TextToSpeechActivity"></activity>
+        <activity android:name=".SpeechToText.SpeechToTextActivity" />
+        <activity android:name=".SelectorActivity" />
+        <activity android:name=".CameraActivity" />
         <activity android:name=".DetectorActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
