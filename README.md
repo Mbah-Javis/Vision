@@ -11,9 +11,8 @@ An app that uses <code><tflite</code> for object recognition, google speecht to 
 make sure you have internet connection when doing it because some things need to be downloaded</li>
 <li>When the synching is done, build the project to apk and run it.</li>
 </ol>
-
-Below are some screenshots from the app.
-![Screenshots from the app](https://github.com/Mbah-Javis/Vision/blob/master/screenshots/Screenshot_2019-12-17-16-24-19.png)
+<p>Below are some screenshots from the app</p>
+![](https://github.com/Mbah-Javis/Vision/blob/master/screenshots/Screenshot_2019-12-17-16-24-19.png)
 
 ![](https://github.com/Mbah-Javis/Vision/blob/master/screenshots/Screenshot_2019-12-17-16-24-31.png)
 
