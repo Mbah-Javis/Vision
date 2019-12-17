@@ -12,10 +12,10 @@ make sure you have internet connection when doing it because some things need to
 <li>When the synching is done, build the project to apk and run it.</li>
 </ol>
 <p>Below are some screenshots from the app</p>
-![](https://github.com/Mbah-Javis/Vision/blob/master/screenshots/Screenshot_2019-12-17-16-24-19.png)
+![ss](https://github.com/Mbah-Javis/Vision/blob/master/screenshots/Screenshot_2019-12-17-16-24-19.png)
 
-![](https://github.com/Mbah-Javis/Vision/blob/master/screenshots/Screenshot_2019-12-17-16-24-31.png)
+![ss](https://github.com/Mbah-Javis/Vision/blob/master/screenshots/Screenshot_2019-12-17-16-24-31.png)
 
-![](https://github.com/Mbah-Javis/Vision/blob/master/screenshots/Screenshot_2019-12-17-16-25-05.png)
+![ss](https://github.com/Mbah-Javis/Vision/blob/master/screenshots/Screenshot_2019-12-17-16-25-05.png)
 
-![](https://github.com/Mbah-Javis/Vision/blob/master/screenshots/Screenshot_2019-12-17-16-35-33.png)
+![ss](https://github.com/Mbah-Javis/Vision/blob/master/screenshots/Screenshot_2019-12-17-16-35-33.png)
